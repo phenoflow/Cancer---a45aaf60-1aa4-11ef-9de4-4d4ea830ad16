@@ -1,0 +1,729 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/cancer-cerebrum---primary.py
+inputModule3:
+  class: File
+  path: python/cancer-endocervix---primary.py
+inputModule4:
+  class: File
+  path: python/cancer-neoplasm---primary.py
+inputModule5:
+  class: File
+  path: python/cancer-trunkunspecified---primary.py
+inputModule6:
+  class: File
+  path: python/cancer-respiratory---primary.py
+inputModule7:
+  class: File
+  path: python/cancer-subacute---primary.py
+inputModule8:
+  class: File
+  path: python/cancer-reticulosarcoma---primary.py
+inputModule9:
+  class: File
+  path: python/hepatic-cancer---primary.py
+inputModule10:
+  class: File
+  path: python/cancer-adenocarcinoma---primary.py
+inputModule11:
+  class: File
+  path: python/cancer-granuloma---primary.py
+inputModule12:
+  class: File
+  path: python/cancer-flexure---primary.py
+inputModule13:
+  class: File
+  path: python/cancer-finger---primary.py
+inputModule14:
+  class: File
+  path: python/cancer-meninge---primary.py
+inputModule15:
+  class: File
+  path: python/cancer-brain---primary.py
+inputModule16:
+  class: File
+  path: python/cancer-bronchu---primary.py
+inputModule17:
+  class: File
+  path: python/cancer-frenulum---primary.py
+inputModule18:
+  class: File
+  path: python/pancreatic-cancer---primary.py
+inputModule19:
+  class: File
+  path: python/buccal-cancer---primary.py
+inputModule20:
+  class: File
+  path: python/cancer-areola---primary.py
+inputModule21:
+  class: File
+  path: python/laryngeal-cancer---primary.py
+inputModule22:
+  class: File
+  path: python/cancer-urethra---primary.py
+inputModule23:
+  class: File
+  path: python/cancer-retroperitoneum---primary.py
+inputModule24:
+  class: File
+  path: python/cancer---primary.py
+inputModule25:
+  class: File
+  path: python/thyroid-cancer---primary.py
+inputModule26:
+  class: File
+  path: python/cancer-nonhodgkin---primary.py
+inputModule27:
+  class: File
+  path: python/secondary-cancer---primary.py
+inputModule28:
+  class: File
+  path: python/intestinal-cancer---primary.py
+inputModule29:
+  class: File
+  path: python/genitourinary-cancer---primary.py
+inputModule30:
+  class: File
+  path: python/cancer-quadrant---primary.py
+inputModule31:
+  class: File
+  path: python/cancer-palate---primary.py
+inputModule32:
+  class: File
+  path: python/cancer-overlap---primary.py
+inputModule33:
+  class: File
+  path: python/cancer-hypopharynx---primary.py
+inputModule34:
+  class: File
+  path: python/abdominal-cancer---primary.py
+inputModule35:
+  class: File
+  path: python/cancer-larynx---primary.py
+inputModule36:
+  class: File
+  path: python/cancer-vestibule---primary.py
+inputModule37:
+  class: File
+  path: python/cancer-cellularity---primary.py
+inputModule38:
+  class: File
+  path: python/cancer-pharynx---primary.py
+inputModule39:
+  class: File
+  path: python/cancer-seminoma---primary.py
+inputModule40:
+  class: File
+  path: python/cancer-conjunctiva---primary.py
+inputModule41:
+  class: File
+  path: python/cancer-burkitt---primary.py
+inputModule42:
+  class: File
+  path: python/cancer-metatarsal---primary.py
+inputModule43:
+  class: File
+  path: python/nervous-cancer---primary.py
+inputModule44:
+  class: File
+  path: python/cancer-greater---primary.py
+inputModule45:
+  class: File
+  path: python/cancer-melanoma---primary.py
+inputModule46:
+  class: File
+  path: python/cancer-plasmacytoma---primary.py
+inputModule47:
+  class: File
+  path: python/cancer-letterersiwe---primary.py
+inputModule48:
+  class: File
+  path: python/cancer-uterus---primary.py
+inputModule49:
+  class: File
+  path: python/cancer-mesothelioma---primary.py
+inputModule50:
+  class: File
+  path: python/pillar-cancer---primary.py
+inputModule51:
+  class: File
+  path: python/cancer-bones---primary.py
+inputModule52:
+  class: File
+  path: python/myelomonocytic-cancer---primary.py
+inputModule53:
+  class: File
+  path: python/cancer-predominance---primary.py
+inputModule54:
+  class: File
+  path: python/lymphatic-cancer---primary.py
+inputModule55:
+  class: File
+  path: python/cancer-depletion---primary.py
+inputModule56:
+  class: File
+  path: python/common-cancer---primary.py
+inputModule57:
+  class: File
+  path: python/cancer-epididymi---primary.py
+inputModule58:
+  class: File
+  path: python/cancer-lipstick---primary.py
+inputModule59:
+  class: File
+  path: python/cancer-spleen---primary.py
+inputModule60:
+  class: File
+  path: python/cancer-cheek---primary.py
+inputModule61:
+  class: File
+  path: python/primary-cancer---primary.py
+inputModule62:
+  class: File
+  path: python/cancer-pleura---primary.py
+inputModule63:
+  class: File
+  path: python/cerebral-cancer---primary.py
+inputModule64:
+  class: File
+  path: python/central-cancer---primary.py
+inputModule65:
+  class: File
+  path: python/upper-cancer---primary.py
+inputModule66:
+  class: File
+  path: python/junctional-cancer---primary.py
+inputModule67:
+  class: File
+  path: python/cancer-dorsal---primary.py
+inputModule68:
+  class: File
+  path: python/cancer-reticuloendotheliosis---primary.py
+inputModule69:
+  class: File
+  path: python/cancer-tongue---primary.py
+inputModule70:
+  class: File
+  path: python/cancer-illdefined---primary.py
+inputModule71:
+  class: File
+  path: python/ethmoid-cancer---primary.py
+inputModule72:
+  class: File
+  path: python/cancer-kaposis---primary.py
+inputModule73:
+  class: File
+  path: python/cancer-eyeball---primary.py
+inputModule74:
+  class: File
+  path: python/thoracic-cancer---primary.py
+inputModule75:
+  class: File
+  path: python/axillary-cancer---primary.py
+inputModule76:
+  class: File
+  path: python/popliteal-cancer---primary.py
+inputModule77:
+  class: File
+  path: python/cancer-floor---primary.py
+inputModule78:
+  class: File
+  path: python/lymphocytichistiocytic-cancer---primary.py
+inputModule79:
+  class: File
+  path: python/cancer-excluding---primary.py
+inputModule80:
+  class: File
+  path: python/cancer-limbunspfd---primary.py
+inputModule81:
+  class: File
+  path: python/cancer-trachea---primary.py
+inputModule82:
+  class: File
+  path: python/cancer-penis---primary.py
+inputModule83:
+  class: File
+  path: python/cancer-fungoide---primary.py
+inputModule84:
+  class: File
+  path: python/connective-cancer---primary.py
+inputModule85:
+  class: File
+  path: python/cancer-ovary---primary.py
+inputModule86:
+  class: File
+  path: python/cancer-maltoma---primary.py
+inputModule87:
+  class: File
+  path: python/cancer-bcell---primary.py
+inputModule88:
+  class: File
+  path: python/cancer-coccyx---primary.py
+inputModule89:
+  class: File
+  path: python/cancer-specified---primary.py
+inputModule90:
+  class: File
+  path: python/cancer-nasal---primary.py
+inputModule91:
+  class: File
+  path: python/cancer-rectum---primary.py
+inputModule92:
+  class: File
+  path: python/parietal-cancer---primary.py
+inputModule93:
+  class: File
+  path: python/cancer-tract---primary.py
+inputModule94:
+  class: File
+  path: python/cancer-vagina---primary.py
+inputModule95:
+  class: File
+  path: python/haematopoietic-cancer---primary.py
+inputModule96:
+  class: File
+  path: python/leukaemic-cancer---primary.py
+inputModule97:
+  class: File
+  path: python/cancer-caecum---primary.py
+inputModule98:
+  class: File
+  path: python/coccygeal-cancer---primary.py
+inputModule99:
+  class: File
+  path: python/renal-cancer---primary.py
+inputModule100:
+  class: File
+  path: python/spinal-cancer---primary.py
+inputModule101:
+  class: File
+  path: python/cancer-chloroma---primary.py
+inputModule102:
+  class: File
+  path: python/cancer-shoulder---primary.py
+inputModule103:
+  class: File
+  path: python/cancer-paraganglia---primary.py
+inputModule104:
+  class: File
+  path: python/cancer-clavicle---primary.py
+inputModule105:
+  class: File
+  path: python/cancer-colon---primary.py
+inputModule106:
+  class: File
+  path: python/female-cancer---primary.py
+inputModule107:
+  class: File
+  path: python/cancer-heart---primary.py
+inputModule108:
+  class: File
+  path: python/pelvic-cancer---primary.py
+inputModule109:
+  class: File
+  path: python/cancer-nipple---primary.py
+inputModule110:
+  class: File
+  path: python/cancer-surface---primary.py
+inputModule111:
+  class: File
+  path: python/eyelid-cancer---primary.py
+inputModule112:
+  class: File
+  path: python/mediastinal-cancer---primary.py
+inputModule113:
+  class: File
+  path: python/tonsillar-cancer---primary.py
+inputModule114:
+  class: File
+  path: python/cancer-sacrum---primary.py
+inputModule115:
+  class: File
+  path: python/cancer-forearm---primary.py
+inputModule116:
+  class: File
+  path: python/temporal-cancer---primary.py
+inputModule117:
+  class: File
+  path: python/pharyngeal-cancer---primary.py
+inputModule118:
+  class: File
+  path: python/cancer-gallbladder---primary.py
+inputModule119:
+  class: File
+  path: python/parotid-cancer---primary.py
+inputModule120:
+  class: File
+  path: python/immunoproliferative-cancer---primary.py
+inputModule121:
+  class: File
+  path: python/cancer-uterine---primary.py
+inputModule122:
+  class: File
+  path: python/cancer-endometrium---primary.py
+inputModule123:
+  class: File
+  path: python/cancer-thumb---primary.py
+inputModule124:
+  class: File
+  path: python/cancer-fundu---primary.py
+inputModule125:
+  class: File
+  path: python/myeloproliferative-cancer---primary.py
+inputModule126:
+  class: File
+  path: python/sacral-cancer---primary.py
+inputModule127:
+  class: File
+  path: python/endocervical-cancer---primary.py
+inputModule128:
+  class: File
+  path: python/cancer-thorax---primary.py
+inputModule129:
+  class: File
+  path: python/cancer-pylorus---primary.py
+inputModule130:
+  class: File
+  path: python/frontal-cancer---primary.py
+inputModule131:
+  class: File
+  path: python/cancer-column---primary.py
+inputModule132:
+  class: File
+  path: python/cancer-cortex---primary.py
+inputModule133:
+  class: File
+  path: python/cancer-sulcu---primary.py
+inputModule134:
+  class: File
+  path: python/cancer-prostate---primary.py
+inputModule135:
+  class: File
+  path: python/cancer-diffuse---primary.py
+inputModule136:
+  class: File
+  path: python/follicular-cancer---primary.py
+inputModule137:
+  class: File
+  path: python/cancer-duodenum---primary.py
+inputModule138:
+  class: File
+  path: python/granulocytic-cancer---primary.py
+inputModule139:
+  class: File
+  path: python/cancer-oropharynx---primary.py
+inputModule140:
+  class: File
+  path: python/cancer-thymu---primary.py
+inputModule141:
+  class: File
+  path: python/cancer-cardia---primary.py
+inputModule142:
+  class: File
+  path: python/cancer-isthmu---primary.py
+inputModule143:
+  class: File
+  path: python/cancer-lymphoma---primary.py
+inputModule144:
+  class: File
+  path: python/vertebral-cancer---primary.py
+inputModule145:
+  class: File
+  path: python/lower-cancer---primary.py
+inputModule146:
+  class: File
+  path: python/cancer-ureter---primary.py
+inputModule147:
+  class: File
+  path: python/cancer-biliary---primary.py
+inputModule148:
+  class: File
+  path: python/faucial-cancer---primary.py
+inputModule149:
+  class: File
+  path: python/cancer-adnexa---primary.py
+inputModule150:
+  class: File
+  path: python/cancer-kahler's---primary.py
+inputModule151:
+  class: File
+  path: python/cancer-sezary---primary.py
+inputModule152:
+  class: File
+  path: python/cancer-articulr---primary.py
+inputModule153:
+  class: File
+  path: python/cancer-sinus---primary.py
+inputModule154:
+  class: File
+  path: python/canal-cancer---primary.py
+inputModule155:
+  class: File
+  path: python/nodular-cancer---primary.py
+inputModule156:
+  class: File
+  path: python/cancer-nerve---primary.py
+inputModule157:
+  class: File
+  path: python/cancer-cartilage---primary.py
+inputModule158:
+  class: File
+  path: python/cancer-majora---primary.py
+inputModule159:
+  class: File
+  path: python/cancer-buttock---primary.py
+inputModule160:
+  class: File
+  path: python/cancer-spine---primary.py
+inputModule161:
+  class: File
+  path: python/lacrimal-cancer---primary.py
+inputModule162:
+  class: File
+  path: python/cancer-axilla---primary.py
+inputModule163:
+  class: File
+  path: python/cancer-stomach---primary.py
+inputModule164:
+  class: File
+  path: python/digestive-cancer---primary.py
+inputModule165:
+  class: File
+  path: python/cancer-sarcoma---primary.py
+inputModule166:
+  class: File
+  path: python/hypopharyngeal-cancer---primary.py
+inputModule167:
+  class: File
+  path: python/cancer-epiglotti---primary.py
+inputModule168:
+  class: File
+  path: python/cancer-ileum---primary.py
+inputModule169:
+  class: File
+  path: python/lateral-cancer---primary.py
+inputModule170:
+  class: File
+  path: python/cancer-metacarpal---primary.py
+inputModule171:
+  class: File
+  path: python/cranial-cancer---primary.py
+inputModule172:
+  class: File
+  path: python/cancer-orbit---primary.py
+inputModule173:
+  class: File
+  path: python/cancer-cornea---primary.py
+inputModule174:
+  class: File
+  path: python/cancer-metastas---primary.py
+inputModule175:
+  class: File
+  path: python/cancer-sclerosis---primary.py
+inputModule176:
+  class: File
+  path: python/other-cancer---primary.py
+inputModule177:
+  class: File
+  path: python/mesenteric-cancer---primary.py
+inputModule178:
+  class: File
+  path: python/cancer-pancoast's---primary.py
+inputModule179:
+  class: File
+  path: python/cancer-thigh---primary.py
+inputModule180:
+  class: File
+  path: python/cancer-posterior---primary.py
+inputModule181:
+  class: File
+  path: python/cancer-middle---primary.py
+inputModule182:
+  class: File
+  path: python/cancer-labia---primary.py
+inputModule183:
+  class: File
+  path: python/pyloric-cancer---primary.py
+inputModule184:
+  class: File
+  path: python/aortic-cancer---primary.py
+inputModule185:
+  class: File
+  path: python/cancer-third---primary.py
+inputModule186:
+  class: File
+  path: python/cancer-phalange---primary.py
+inputModule187:
+  class: File
+  path: python/cancer-abdoman---primary.py
+inputModule188:
+  class: File
+  path: python/cancer-phaeochromocytoma---primary.py
+inputModule189:
+  class: File
+  path: python/cancer-gland---primary.py
+inputModule190:
+  class: File
+  path: python/cancer-corpus---primary.py
+inputModule191:
+  class: File
+  path: python/cancer-sternum---primary.py
+inputModule192:
+  class: File
+  path: python/cancer-tissue---primary.py
+inputModule193:
+  class: File
+  path: python/cancer-tcell---primary.py
+inputModule194:
+  class: File
+  path: python/cancer-accessory---primary.py
+inputModule195:
+  class: File
+  path: python/cancer-orifice---primary.py
+inputModule196:
+  class: File
+  path: python/independent-cancer---primary.py
+inputModule197:
+  class: File
+  path: python/cancer-region---primary.py
+inputModule198:
+  class: File
+  path: python/cancer-septum---primary.py
+inputModule199:
+  class: File
+  path: python/cancer-erythraemia---primary.py
+inputModule200:
+  class: File
+  path: python/cancer-histiocytosis---primary.py
+inputModule201:
+  class: File
+  path: python/unknown-cancer---primary.py
+inputModule202:
+  class: File
+  path: python/submandibular-cancer---primary.py
+inputModule203:
+  class: File
+  path: python/cancer-portion---primary.py
+inputModule204:
+  class: File
+  path: python/cancer-mucosa---primary.py
+inputModule205:
+  class: File
+  path: python/cancer-fossa---primary.py
+inputModule206:
+  class: File
+  path: python/cancer-malignant---primary.py
+inputModule207:
+  class: File
+  path: python/cancer-scalp---primary.py
+inputModule208:
+  class: File
+  path: python/cancer-myeloma---primary.py
+inputModule209:
+  class: File
+  path: python/cancer-structure---primary.py
+inputModule210:
+  class: File
+  path: python/cancer-scrotum---primary.py
+inputModule211:
+  class: File
+  path: python/cancer-chondroma---primary.py
+inputModule212:
+  class: File
+  path: python/cancer-vulva---primary.py
+inputModule213:
+  class: File
+  path: python/cancer-oesophagu---primary.py
+inputModule214:
+  class: File
+  path: python/cancer-kidney---primary.py
+inputModule215:
+  class: File
+  path: python/cancer-antrum---primary.py
+inputModule216:
+  class: File
+  path: python/cancer-breast---primary.py
+inputModule217:
+  class: File
+  path: python/choroid-cancer---primary.py
+inputModule218:
+  class: File
+  path: python/cancer-chest---primary.py
+inputModule219:
+  class: File
+  path: python/genital-cancer---primary.py
+inputModule220:
+  class: File
+  path: python/cancer-retina---primary.py
+inputModule221:
+  class: File
+  path: python/cancer-hypernephroma---primary.py
+inputModule222:
+  class: File
+  path: python/rectosigmoid-cancer---primary.py
+inputModule223:
+  class: File
+  path: python/cancer-medulla---primary.py
+inputModule224:
+  class: File
+  path: python/cancer-mouth---primary.py
+inputModule225:
+  class: File
+  path: python/cancer-perineum---primary.py
+inputModule226:
+  class: File
+  path: python/cancer-pericardium---primary.py
+inputModule227:
+  class: File
+  path: python/cancer-cervix---primary.py
+inputModule228:
+  class: File
+  path: python/cancer-anterior---primary.py
+inputModule229:
+  class: File
+  path: python/cancer-skull---primary.py
+inputModule230:
+  class: File
+  path: python/cancer-auditory---primary.py
+inputModule231:
+  class: File
+  path: python/cancer-carcinoma---primary.py
+inputModule232:
+  class: File
+  path: python/ectopic-cancer---primary.py
+inputModule233:
+  class: File
+  path: python/cancer-liver---primary.py
+inputModule234:
+  class: File
+  path: python/cancer-osteoma---primary.py
+inputModule235:
+  class: File
+  path: python/tympanic-cancer---primary.py
+inputModule236:
+  class: File
+  path: python/cancer-scapula---primary.py
+inputModule237:
+  class: File
+  path: python/cancer-neuroblastoma---primary.py
+inputModule238:
+  class: File
+  path: python/occipital-cancer---primary.py
+inputModule239:
+  class: File
+  path: python/cancer-2ndry---primary.py
+inputModule240:
+  class: File
+  path: python/cancer-tumour---primary.py
+inputModule241:
+  class: File
+  path: python/pituitary-cancer---primary.py
+inputModule242:
+  class: File
+  path: python/cancer-guglielmo's---primary.py
+inputModule243:
+  class: File
+  path: python/output-cases.py
